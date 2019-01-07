@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work.
 
 ## Introduction
-This is an exemple to show different parts of the Git reposity and various commands using a web project. Adding a line for rebasing exemple. 
+This is an exemple to show different parts of the Git reposity and various commands using a web project. Adding a line for rebasing exemple, then more changes.
 
 ## Purpose
 As stated above.. 
