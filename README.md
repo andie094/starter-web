@@ -18,6 +18,7 @@ Please fork this repository and then issue Pull Request for review.
 Whaaa?
 
 ###Copyright
+All rights reserved.
 
 Git.Training.
 >>>>>>> add-copywrite
